@@ -14,9 +14,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## 🛠️ Construído com
 
 
-* [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada.
-* [HTML5 / CSS3](https://www.w3schools.com) - Construção e estilização.
-* [Javascript](https://www.javascript.com) - Linguagem de programação utilizada.
+* [Netbeans](https://netbeans.apache.org/) - IDE utilizada.
+* [Java](https://www.java.com/pt-BR/) - Linguagem de programação utilizada.
+* [JUnit](https://junit.org/junit5/) - Framework.
 
 ## 🤝 Colaboradores
 
@@ -26,7 +26,7 @@ Pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/77749469?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/77749469?v=4" width="100px;"/><br>
         <sub>
           <b>José Ramos</b>
         </sub>
